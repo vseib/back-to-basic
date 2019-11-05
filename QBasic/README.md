@@ -18,7 +18,7 @@ I group the programs into different categories:
 * Computing
 * Graphics
 * Games
-* Others
+* Other
 
 ---
 
