@@ -48,51 +48,57 @@ Given an initial speed and an angle, this program calculates and plots the traje
 
 ### Graphics
 
-### Time (January, 2002)
-
-This program simply displays the current system time.
-
-
-
-### Star (September, 2001)
-
-![alt text](images/star.png "Star screenshot")
-
-Draws a star.
-
-### Rose (June, 2000)
-
-![alt text](images/rose.png "Rose screenshot")
-
-Draws a rose.
-
-### Frequenz (February, 2003)
-
-You enter a frequency, the program makes the according sound for 1 second. Crashes for values below 37. Frequencies somewhere above 20 kHz are played incorrectly.
-
-### Disko (December, 1999)
+#### Disko (December, 1999)
 
 ![alt text](images/disko_1.png "Disko screenshot 1")
 ![alt text](images/disko_2.png "Disko screenshot 2")
 
 This program draws random colored blocks. It has two display modes that only differ in the clear screen call being omitted in one of the modes.
 
-### Clock (May, 2000)
+#### Clock (May, 2000)
 
 ![alt text](images/clock.png "Clock screenshot")
 
 Draws some kind of clock-like looking circles and a clock hand.
 
+#### Rose (June, 2000)
 
+![alt text](images/rose.png "Rose screenshot")
 
-### Road-Roller (February, 2000)
+Draws a rose.
+
+#### Star (September, 2001)
+
+![alt text](images/star.png "Star screenshot")
+
+Draws a star.
+
+---
+
+### Games
+
+#### Road-Roller (February, 2000)
 
 ![alt text](images/roadroller.png "Road-Roller screenshot")
 
 A graphical game! You can move left and right with the numbers 4 and 6. But to make a step you have to manually press enter :)
 
-### The Legacy of Cthulhu (July, 2002)
+#### The Legacy of Cthulhu (July, 2002)
 
 ![alt text](images/legacy.png "The legacy of Cthulhu screenshot")
 
 An amazing text adventure! It is not only a game, it also tells a story ;) Unfortunately in German.
+
+---
+
+### Other
+
+#### Time (January, 2002)
+
+This program simply displays the current system time.
+
+#### Frequenz (February, 2003)
+
+You enter a frequency, the program makes the according sound for 1 second. Crashes for values below 37. Frequencies somewhere above 20 kHz are played incorrectly.
+
+
