@@ -55,6 +55,24 @@ This program draws random colored blocks. It has two display modes that only dif
 ![alt text](images/disko_1.png "Disko screenshot 1")
 ![alt text](images/disko_2.png "Disko screenshot 2")
 
+#### Diamant (December, 1999)
+
+Draws a colored gem. The screenshot can not account for the random noises this program makes while drawing ;)
+
+![alt text](images/diamant.png "Diamant screenshot")
+
+#### Kreise2 (April, 2000)
+
+Draws colored circles.
+
+![alt text](images/kreise2.png "Kreise screenshot")
+
+#### Rings (around May, 2000)
+
+Draws a line segment that is moving along two adjacent circles.
+
+![alt text](images/rings.png "Rings screenshot")
+
 #### Clock (May, 2000)
 
 Draws some kind of clock-like looking circles and a clock hand.
