@@ -85,7 +85,7 @@ A graphical game! You can move left and right with the numbers 4 and 6. But to m
 
 #### The Legacy of Cthulhu (July, 2002)
 
-An amazing text adventure! It is not only a game, it also tells a story ;) Unfortunately in German.
+An amazing text adventure! It is not only a game, it also tells a story ;) Unfortunately only in German.
 
 ![alt text](images/legacy.png "The legacy of Cthulhu screenshot")
 
