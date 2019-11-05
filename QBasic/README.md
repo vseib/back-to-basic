@@ -13,23 +13,46 @@ All programs are provided as source code and as a compiled binary on Ubuntu 18.0
 
 ## Description
 
-### Vep (August, 1999)
+I group the programs into different categories:
+
+* Computing
+* Graphics
+* Games
+* Others
+
+---
+
+### Computing
+
+#### Vep (August, 1999)
 
 This was my very first program that converts numbers from different numerical systems into decimal numbers. It is very primitive, e.g. you have to enter the digits one by one.
 
-### Vep 2 (February, 2000)
+#### Vep 2 (February, 2000)
 
 A new version of the number converting program, with many improvements.
+
+#### Binomialkoeffizienten (November, 2001)
+
+You can choose to compute
+* the number of possible combinations of drawing x items out of n
+* the factorial of a number
+
+#### Wurfbahn (December, 2001)
+
+![alt text](images/wurfbahn.png "Wurfbahn screenshot")
+
+Given an initial speed and an angle, this program calculates and plots the trajectory of an object (not taking into account air resistance).
+
+---
+
+### Graphics
 
 ### Time (January, 2002)
 
 This program simply displays the current system time.
 
-### Wurfbahn (December, 2001)
 
-![alt text](images/wurfbahn.png "Wurfbahn screenshot")
-
-Given an initial speed and an angle, this program calculates and plots the trajectory of an object (not taking into account air resistance).
 
 ### Star (September, 2001)
 
@@ -60,11 +83,7 @@ This program draws random colored blocks. It has two display modes that only dif
 
 Draws some kind of clock-like looking circles and a clock hand.
 
-### Binomialkoeffizienten (November, 2001)
 
-You can choose to compute
-* the number of possible combinations of drawing x items out of n
-* the factorial of a number
 
 ### Road-Roller (February, 2000)
 
