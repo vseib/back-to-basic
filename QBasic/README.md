@@ -40,9 +40,9 @@ You can choose to compute
 
 #### Wurfbahn (December, 2001)
 
-![alt text](images/wurfbahn.png "Wurfbahn screenshot")
-
 Given an initial speed and an angle, this program calculates and plots the trajectory of an object (not taking into account air resistance).
+
+![alt text](images/wurfbahn.png "Wurfbahn screenshot")
 
 ---
 
@@ -50,28 +50,28 @@ Given an initial speed and an angle, this program calculates and plots the traje
 
 #### Disko (December, 1999)
 
+This program draws random colored blocks. It has two display modes that only differ in the clear screen call being omitted in one of the modes.
+
 ![alt text](images/disko_1.png "Disko screenshot 1")
 ![alt text](images/disko_2.png "Disko screenshot 2")
 
-This program draws random colored blocks. It has two display modes that only differ in the clear screen call being omitted in one of the modes.
-
 #### Clock (May, 2000)
-
-![alt text](images/clock.png "Clock screenshot")
 
 Draws some kind of clock-like looking circles and a clock hand.
 
-#### Rose (June, 2000)
+![alt text](images/clock.png "Clock screenshot")
 
-![alt text](images/rose.png "Rose screenshot")
+#### Rose (June, 2000)
 
 Draws a rose.
 
+![alt text](images/rose.png "Rose screenshot")
+
 #### Star (September, 2001)
 
-![alt text](images/star.png "Star screenshot")
-
 Draws a star.
+
+![alt text](images/star.png "Star screenshot")
 
 ---
 
@@ -79,15 +79,15 @@ Draws a star.
 
 #### Road-Roller (February, 2000)
 
-![alt text](images/roadroller.png "Road-Roller screenshot")
-
 A graphical game! You can move left and right with the numbers 4 and 6. But to make a step you have to manually press enter :)
+
+![alt text](images/roadroller.png "Road-Roller screenshot")
 
 #### The Legacy of Cthulhu (July, 2002)
 
-![alt text](images/legacy.png "The legacy of Cthulhu screenshot")
-
 An amazing text adventure! It is not only a game, it also tells a story ;) Unfortunately in German.
+
+![alt text](images/legacy.png "The legacy of Cthulhu screenshot")
 
 ---
 
